@@ -16,8 +16,8 @@
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gsotocuya&show_icons=true&locale=en" alt="gsotocuya" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsotocuya&" alt="gsotocuya" />
+  <img align="left"src="https://github-readme-stats.vercel.app/api?username=gsotocuya&show_icons=true&locale=en" alt="gsotocuya" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gsotocuya&" alt="gsotocuya" />
 </p>
 
 ------
