@@ -15,15 +15,12 @@
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<p align="center">
-  <img align="left"src="https://github-readme-stats.vercel.app/api?username=gsotocuya&show_icons=true&locale=en" alt="gsotocuya" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gsotocuya&" alt="gsotocuya" />
-</p>
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=gsotocuya&show_icons=true&locale=en" alt="gsotocuya" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gsotocuya&" alt="gsotocuya" />
 
-------
+--------
+
 <h2 align="center">You can find me at:</h2> 
-
 <p align="center">
 <a href="https://www.linkedin.com/in/gsotocuya/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
