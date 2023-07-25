@@ -4,6 +4,13 @@
 
 <p align="left">I am a person who loves technology. Excited about Microsoft technology, especially the C# language</p>
 
+### About
+
+-  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
+-  **Languages :** C#, TypeScript
+-  **Hobbies :** Music :headphones:
+-  **Fact :** First solve the problem, then write the code :heart:
+
 #### Programmer in 
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -15,8 +22,11 @@
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=gsotocuya&show_icons=true&locale=en" alt="gsotocuya" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gsotocuya&" alt="gsotocuya" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=gsotocuya&show_icons=true&locale=en" alt="gsotocuya" /> -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsotocuya&" alt="gsotocuya" /> -->
+
+![Top Langs](https://github-readme-stats-green-pi.vercel.app/api/top-langs/?username=gsotocuya&hide=TeX&layout=compact&count-private=true)
+
 
 --------
 
