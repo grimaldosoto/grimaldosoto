@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gsotocuya&label=Profile%20views&color=0e75b6&style=flat" alt="gsotocuya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=grimaldosoto&label=Profile%20views&color=0e75b6&style=flat" alt="grimaldosoto" /> </p>
 
 ### Hi 👋, I'm Grimaldo SOTO
 
@@ -22,17 +22,17 @@
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=gsotocuya&show_icons=true&locale=en" alt="gsotocuya" /> -->
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsotocuya&" alt="gsotocuya" /> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=grimaldosoto&show_icons=true&locale=en" alt="grimaldosoto" /> -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=grimaldosoto&" alt="grimaldosoto" /> -->
 
-![Top Langs](https://github-readme-stats-green-pi.vercel.app/api/top-langs/?username=gsotocuya&hide=TeX&layout=compact&count-private=true)
+![Top Langs](https://github-readme-stats-green-pi.vercel.app/api/top-langs/?username=grimaldosoto&hide=TeX&layout=compact&count-private=true)
 
 
 --------
 
 <h2 align="center">You can find me at:</h2> 
 <p align="center">
-<a href="https://www.linkedin.com/in/gsotocuya/" target="_blank">
+<a href="https://www.linkedin.com/in/grimaldosoto/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://twitter.com/gsotocuya" target="_blank">
