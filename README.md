@@ -25,7 +25,7 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=grimaldosoto&show_icons=true&locale=en" alt="grimaldosoto" /> -->
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=grimaldosoto&" alt="grimaldosoto" /> -->
 
-![Top Langs](https://github-readme-stats-green-pi.vercel.app/api/top-langs/?username=grimaldosoto&hide=TeX&layout=compact&count-private=true)
+<!-- ![Top Langs](https://github-readme-stats-green-pi.vercel.app/api/top-langs/?username=grimaldosoto&hide=TeX&layout=compact&count-private=true) -->
 
 
 --------
